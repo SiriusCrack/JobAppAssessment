@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace RetailLockboxAssessment {
+namespace JobAppAssessment {
     class Program {
         private static HashSet<int> intNums = new HashSet<int>();
         private static HashSet<float> floatNums = new HashSet<float>();
